@@ -1,7 +1,7 @@
 
 # ㅇㅅㅇ
 
-아따코딩어렵다그죠
+게임을 만든다
 
 <!---
 GmumDev/GmumDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
